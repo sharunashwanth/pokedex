@@ -2,7 +2,7 @@
 
 Welcome to the Pokédex repository! This project is a simple and straightforward implementation of a web Pokédex, allowing users to search and explore information about different Pokémon species. This is a fun project implemented in vanilla js. [Pokédex](https://zoneofmakos.web.app/pokedex/) is live. Check it out.
 
-![Pokédex Favicon](images/pokeball.png)
+![Pokédex Favicon](https://zoneofmakos.web.app/pokedex/images/pokeball.png)
 
 ## Features
 
