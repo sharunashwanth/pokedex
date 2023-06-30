@@ -163,7 +163,7 @@ main {
 
 .windowPop-section{
     width: 30%;
-    height: calc(80% + 88px);
+    min-height: calc(80% + 88px);
     position: relative;
 }
 
